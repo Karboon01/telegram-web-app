@@ -1,0 +1,11 @@
+.btn {
+    padding: 10px 20px;
+    background-color: aquamarine;
+    border: none;
+    border-radius: 10px;
+}
+
+.logo {
+    width: 150px;
+    display: flex;
+}
